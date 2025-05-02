@@ -137,7 +137,7 @@ a {
     left: 50%;
     width: 600px; 
     height: 600px;
-    background-image: url('./images/universe.png');
+    background-image: url('./universe.png');
     /* opacity: 0.7; */
     background-size: cover;
     background-position: center;
